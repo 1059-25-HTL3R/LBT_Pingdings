@@ -1,0 +1,29 @@
+{
+  "name": "lbt_pingdings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1059-25-HTL3R/LBT_Pingdings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/1059-25-HTL3R/LBT_Pingdings/issues"
+  },
+  "homepage": "https://github.com/1059-25-HTL3R/LBT_Pingdings#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "express": "^5.2.1",
+    "ts-node": "^10.9.2"
+  }
+}
