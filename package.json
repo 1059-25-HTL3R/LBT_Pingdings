@@ -1,0 +1,15 @@
+{
+  "name": "lbt_pingdings",
+  "version": "1.0.0",
+  "description": "LBT-Device-Checker",
+  "license": "ISC",
+  "author": "ZWE",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
